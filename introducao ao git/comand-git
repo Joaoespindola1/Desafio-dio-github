@@ -1,0 +1,22 @@
+cd       -> acessar arquivo 
+
+mkdir    -> criar pasta
+
+ls       -> listar os arquivos
+
+ls -a    -> lista os arquivos mostrando os ocultos
+
+git init -> iniciar o git para poder gerenciar o repositorio
+
+git add * -> adicionar tudo que foi adicionado no repositorio
+
+git status -> monitorar estados dos arquivos
+
+git remote add origin (link do repositorio) -> Adicionar origem do repositorio remoto no config local
+
+git remote -v -> listar repositorios cadastrados
+
+git push origin master -> enviar o repositorio local para o remoto
+
+git config --global --unset user.name -> desvincular a configuração
+
